@@ -1,3 +1,12 @@
+# Generate QR for your text info:
+## This project uses abstract's API to generate QR from user input text:
+### EX - Info:  
+mail : example@gmail.com  
+phone : +91 9****0  
+linked-in : your id  
+twitter : your twitter id  
+### All these can be converted into QR for easy sharing of your info.  
+### Steps to follow:  
 * I recommend you to install **Git Bash** and set is as current terminal in your code editor.  
 Step 1: Create a new Directory in your code editor.  
 --> Set is as the current directory, using command :  
