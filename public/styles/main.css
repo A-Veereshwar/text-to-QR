@@ -95,3 +95,6 @@ body{
         box-shadow: 0px 0px 5px 3px rgb(238, 0, 255);
     }
 }
+.input-label p{
+    color:white;
+}
